@@ -10,6 +10,8 @@ We want to inventory and bucket a series of parsers.
 
 To find commonalities among several parsers and categorize some parsers as "standard."
 
+Key focus on `obtExtractFieldsFromFeed`.
+
 ### The How
 ##### (current iteration)
 
